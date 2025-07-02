@@ -1,0 +1,14 @@
+site:
+  title: "Business Template"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/kotlin-webpack/js/developmentExecutable/businesstemplate.js"
+      api: "build/libs/businesstemplate.jar"
+    prod:
+      script: "build/kotlin-webpack/js/productionExecutable/businesstemplate.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080
