@@ -1,4 +1,5 @@
-This is a [Kobweb](https://github.com/varabyte/kobweb) project bootstrapped with the `app` template.
+This is a Kobweb template for a typical single-page service-based business website.
+Ideal for businesses offering services. Easily customizable with placeholder content and modular structure
 
 ## Getting Started
 
