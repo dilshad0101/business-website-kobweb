@@ -106,7 +106,7 @@ fun HomePage() {
 
             // Call to Action
             SpanText(
-                "Call +91 9567543218 to book a service.",
+                "Call $phone1 to book a service.",
                 modifier = Modifier
                     .padding(top = 1.2.cssRem)
                     .fontWeight(FontWeight.SemiBold)
